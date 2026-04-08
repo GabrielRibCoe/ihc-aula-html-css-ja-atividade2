@@ -1,0 +1,88 @@
+body {
+    background-color: moccasin;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.card1 {
+   display: block;
+   text-align: center;
+   width: 30%;
+   margin-left: 30%;
+   padding: 30px;
+   border: 3px solid whitesmoke;
+   background-color: gray;
+
+}
+
+
+.card1 h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+
+.card1 h2{
+    text-align: left;
+}
+
+.card1 p{
+     text-align: center;
+     font-size: large;
+     font-style: italic;
+}
+
+.card2 {
+   display: block;
+   text-align: center;
+   width: 30%;
+   margin-left: 30%;
+   padding: 30px;
+   border: 3px solid khaki;
+   background-color: lemonchiffon;
+
+}
+
+
+.card2 h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+
+.card2 h2{
+    text-align: left;
+}
+
+.card2 p{
+     text-align: center;
+     font-size: large;
+     font-style: italic;
+}
+
+.card3 {
+   display: block;
+   text-align: center;
+   width: 30%;
+   margin-left: 30%;
+   padding: 30px;
+   border: 3px solid crimson;
+   background-color: maroon;
+
+}
+
+
+.card3 h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+
+.card3 h2{
+    text-align: left;
+}
+
+.card3 p{
+     text-align: center;
+     font-size: large;
+     font-style: italic;
+}
